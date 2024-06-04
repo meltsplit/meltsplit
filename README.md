@@ -1,8 +1,8 @@
 ## meltsplit
 안녕하세요, iOS 개발자 장석우입니다.
 
-[Blog](https://velog.io/@melt)
-Contact: pinaex00@gmail.com
+- [Blog](https://velog.io/@melt)
+- Contact: pinaex00@gmail.com
 
 ## 🌿 Activity
 |단체|활동|기간|
