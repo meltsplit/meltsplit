@@ -4,7 +4,7 @@
 - [Blog](https://velog.io/@melt)
 - Contact: pinaex00@gmail.com
 
-## 🌿 Activity
+## 🌿 Experience
 |단체|활동|기간|
 |------|---|---|
 |ZOOC(건국대 창업캠퍼스 학생창업팀)| fitapat iOS 앱 개발 운영 |2023.08 - 2024.05|
