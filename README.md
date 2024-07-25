@@ -19,7 +19,7 @@
 - 소개: 생성형 AI를 활용한 반려동물 커스텀 굿즈 서비스
 - 다운로드 수: `600+`
 - [App Store](https://apps.apple.com/kr/app/zooc/id1669547675)
-- [Github](https://github.com/meltsplit/Fitapat-iOS)
+- [Github](https://github.com/meltsplit/Fitapat)
 
 **EasyVel** 
 - 소개: 벨로그를 모바일에서 볼 수 있는 아티클 아카이빙 서비스
