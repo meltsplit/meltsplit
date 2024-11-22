@@ -21,8 +21,17 @@
 - [App Store](https://apps.apple.com/kr/app/zooc/id1669547675)
 - [Github](https://github.com/meltsplit/Fitapat)
 
-**EasyVel** 
-- 소개: 벨로그를 모바일에서 볼 수 있는 아티클 아카이빙 서비스
-- 다운로드 수: `1000+`
-- [App Store](https://apps.apple.com/kr/app/%EC%9D%B4%EC%A7%80%EB%B2%A8-easyvel/id6448953485)
-- [Github](https://github.com/SSUDevelog/EasyVel-iOS)
+**산타마니또** 
+- 소개: 아이스브레이킹을 돕는 마니또 게임 서비스
+- 다운로드 수: `6.3만+`
+- [App Store](https://apps.apple.com/kr/app/id1546583360)
+- [Github](https://github.com/manito-project/SantaManito-iOS)
+
+**솝트 공식앱** 
+- 소개: 대학생 연합 IT 벤처창업동아리 SOPT 공식 앱`
+- [App Store](https://apps.apple.com/app/id6444594319)
+- [Github](https://github.com/sopt-makers/SOPT-iOS)
+
+**피지컬 트랙** 
+- 소개: 근접 센서를 사용한 푸시업 자동 카운터 웹앱 어플리케이션
+- [Github](https://github.com/meltsplit/PhysicalTrack)
